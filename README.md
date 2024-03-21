@@ -3,7 +3,6 @@
 - 📚 Cursando desenvolvimento Web Fullstack pelo Instituto Proa
 - 💻 Atualmente formando conhecimentos em HTML, JavaScript, CSS e Bootstrap.
 - 🎯 Metas de conhecimento: Java, SQL, React e TypeScript
-- 👋 Pronomes: ele/dele
 - 🎲 Fun fact: sou fã de videogames de RPG!
 ###
 <div>
