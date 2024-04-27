@@ -1,7 +1,7 @@
 ### <i>Hello World!</i> Eu sou Gustavo Bosak
 
 - 📚 Cursando desenvolvimento Web Fullstack pelo Instituto Proa
-- 💻 Atualmente formando conhecimentos em JavaScript, React JS, Bootstrap e MySQL.
+- 💻 Atualmente aprimorando conhecimentos em JavaScript, React JS, Bootstrap e MySQL.
 - 🎯 Metas de conhecimento: Java, TypeScript, Node JS e JQuery.
 - 🎲 Fun fact: sou fã de videogames de RPG!
 ###
